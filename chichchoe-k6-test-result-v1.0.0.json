@@ -3400,7 +3400,8 @@
   "style": "dark",
   "tags": [
     "prometheus",
-    "k6"
+    "k6",
+    "chichchoe"
   ],
   "templating": {
     "list": [
@@ -3427,10 +3428,7 @@
         "current": {
           "selected": true,
           "text": [
-            "chichchoe-2023-04-24-03-24"
-          ],
-          "value": [
-            "chichchoe-2023-04-24-03-24"
+            "All"
           ]
         },
         "datasource": {
@@ -3552,8 +3550,8 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Official k6 Test Result",
+  "title": "ChichChoe K6 Test Result",
   "uid": "01npcT44a",
-  "version": 15,
+  "version": 16,
   "weekStart": ""
 }
