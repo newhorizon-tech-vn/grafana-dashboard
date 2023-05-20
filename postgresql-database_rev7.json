@@ -2947,7 +2947,8 @@
   "tags": [
     "postgres",
     "db",
-    "stats"
+    "stats",
+    "chichchoe"
   ],
   "templating": {
     "list": [
@@ -3132,7 +3133,7 @@
     ]
   },
   "time": {
-    "from": "now-6h",
+    "from": "now-24h",
     "to": "now"
   },
   "timepicker": {
@@ -3160,8 +3161,8 @@
       "30d"
     ]
   },
-  "timezone": "",
-  "title": "PostgreSQL Database",
+  "timezone": "browser",
+  "title": "ChichChoe PostgreSQL Database",
   "uid": "000000039",
   "version": 1
 }
